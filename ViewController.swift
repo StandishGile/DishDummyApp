@@ -3,7 +3,7 @@
 //  Dish Dummy App
 //
 //  Created by Dish Xcode on 8/20/16.
-//  Copyright © 2016 Dish Xcode. All rights reserved.
+//  Copyright © 2016 Dish Xcode. All rights reserved..
 //
 
 import UIKit
